@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\bin\Debug\CalificacionesForCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\bin\Debug\CalificacionesForCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\bin\Debug\CalificacionesForCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.Form1.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR CS\CalificacionesForCS\CalificacionesForCS\obj\Debug\CalificacionesForCS.pdb
