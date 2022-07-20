@@ -1,0 +1,22 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones_con_FOR_VB.frmCalificacionesFORVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones_con_FOR_VB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\11\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\bin\Debug\Calificaciones con FOR VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones_con_FOR_VB.frmCalificacionesFORVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones_con_FOR_VB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\10\Calificaciones con FOR VB\Calificaciones con FOR VB\obj\Debug\Calificaciones con FOR VB.pdb
